@@ -1,5 +1,5 @@
 # test-cases-login-test-cases.md
-test-cases/registration-test-cases.md
+test-cases/login-test-cases.md
 # Login Test Cases
 
 | TC ID | Test Scenario | Test Data | Expected Result |
